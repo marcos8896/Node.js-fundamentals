@@ -1,3 +1,10 @@
+/*
+    Example with http native module on NodeJS.
+
+    This example also uses connect external module to handle the requests on specific routes.
+*/
+
+
 'use strict';
 const connect = require('connect');
 const http = require('http');

@@ -1,3 +1,7 @@
+/*
+    Example with http native module on NodeJS and how to response with a file.
+*/
+
 'use strict';
 const http = require('http');
 const fs = require('fs');

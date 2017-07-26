@@ -1,3 +1,11 @@
+/*
+    Example with http native module on NodeJS.
+    
+    This example also uses connect external module to handle the request.
+
+    This example helps us to explain the next middleware function.
+*/
+
 'use strict';
 const connect = require('connect');
 const http = require('http');
