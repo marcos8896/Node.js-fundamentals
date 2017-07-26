@@ -1,0 +1,23 @@
+{
+  "name": "simple-web-server",
+  "version": "1.0.0",
+  "description": "Simple Web Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcos8896/Node.js-fundamentals.git"
+  },
+  "author": "Marcos Barrera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcos8896/Node.js-fundamentals/issues"
+  },
+  "homepage": "https://github.com/marcos8896/Node.js-fundamentals#readme",
+  "dependencies": {
+    "connect": "^3.6.2"
+  }
+}
